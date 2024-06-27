@@ -1,0 +1,1 @@
+Developed a machine learning model to predict Amazon's stock price trends based on historical data from 2023-2024. This project coule potentiallay provide valuable insights for strategic investment decisions and enhance financial decision-making within an organization.
